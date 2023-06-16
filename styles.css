@@ -115,7 +115,7 @@ a:hover {
   transform: translate(-50%, 0%);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
   user-select: none;
-  padding: 20 px;
+  padding: 20px;
   display: none;
   /* In order to show or hide errorDisplay, you must modify its display style attribute. */
 }
